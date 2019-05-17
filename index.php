@@ -13,7 +13,6 @@
 	<div class="row">
 		<div class="col s12 l2 purple"></div>
 		<div class="col s12 l8 center-align">
-			<?php echo "burayi ekledik"; ?>
 
       <div class="card">
         <div class="card-image">
