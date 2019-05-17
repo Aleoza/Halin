@@ -1,0 +1,47 @@
+.intro{
+	background: #fff;
+	height: auto;
+	top:175px;
+}
+.over{
+	transform: translate3d(0,-50%,0);
+	border: 3px solid #fff;
+	padding: 2px;
+	margin-bottom: -20%; 
+}
+.baslik{
+	text-align: center;
+	font-family: sans-serif;
+}
+.descrip{}
+.mb-1 {
+	margin-bottom: 1rem;
+}
+.bg-fb {
+	background-color: #3b5998 !important;
+}
+.bg-in {
+	background-color: #de2188 !important;
+}
+.bg-ws {
+	background-color: #FFAD01 !important;
+}
+.btn{
+	width: 100%;
+	margin: 5px 0px;
+}
+.fblogin, .inlogin, .wslogin, .rglogin, .control {
+	display: none;
+}
+#tekrar {
+	display: none;
+}
+#tcn {
+	text-align: center;
+}
+.row {
+	margin-bottom: 0px !important;
+}
+.card-content {
+	padding: 24px 12% !important;
+}
